@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a0f6750.chunk.css",
+    "main.js": "/static/js/main.ae9016fe.chunk.js",
+    "main.js.map": "/static/js/main.ae9016fe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7a593f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7a593f2.js.map",
+    "static/js/2.c4fd56f7.chunk.js": "/static/js/2.c4fd56f7.chunk.js",
+    "static/js/2.c4fd56f7.chunk.js.map": "/static/js/2.c4fd56f7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eff7e513ea47be739ec0d306ba97de0c.js": "/precache-manifest.eff7e513ea47be739ec0d306ba97de0c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2a0f6750.chunk.css.map": "/static/css/main.2a0f6750.chunk.css.map",
+    "static/js/2.c4fd56f7.chunk.js.LICENSE.txt": "/static/js/2.c4fd56f7.chunk.js.LICENSE.txt",
+    "static/media/ab_HP1-01.png": "/static/media/ab_HP1-01.66d20138.png",
+    "static/media/ab_db1-01.png": "/static/media/ab_db1-01.e7cc7d38.png",
+    "static/media/auditbotlogo.PNG": "/static/media/auditbotlogo.2c9ec25e.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7a593f2.js",
+    "static/js/2.c4fd56f7.chunk.js",
+    "static/css/main.2a0f6750.chunk.css",
+    "static/js/main.ae9016fe.chunk.js"
+  ]
+}

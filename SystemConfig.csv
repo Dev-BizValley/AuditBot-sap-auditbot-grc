@@ -1,0 +1,5 @@
+SysId,SysDesc,Client,IP Address,Instance Number,Type,Message Server,Group Server,SNC Name
+EP1,EP1 System,800,108.52.246.122,2,,,,
+SR1,SR1 System,100,116.74.253.169,10,,,,
+AUD,AUD System,001,34.200.247.50,0,,,,
+PR1,PRI System,100,151.197.228.121,6,,,,
